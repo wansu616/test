@@ -1,3 +1,7 @@
 *.png
 *.jpg
-receipts/
+#ignore receipts/ plot
+receipts/plot/
+#ignore all the csv file, regardless of their position
+**/*.csv
+!*.csv
