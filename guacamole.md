@@ -1,4 +1,5 @@
 #Guacamole
 ## Ingredients
 ## Instructions
-#avaconda
+#avocado
+#lime
