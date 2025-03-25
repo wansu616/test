@@ -1,5 +1,6 @@
 #Guacamole
 ## Ingredients
-## Instructions
 #avocado
 #lime
+## Instructions
+# put avocado into a bowl
